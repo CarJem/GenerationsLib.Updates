@@ -1,7 +1,7 @@
 {
   "Metadata": {
     "Version": "1.4.2",
-    "Details": "NULL",
-    "DownloadURL": "NULL"
+    "Details": "Version 1.4.2\r\n==========\r\n- Fix Version Install By Zip Crash\r\n- Fix Broken AIR Mod Manager Places Button Items Not Having Triggers\r\n- Fix Open Mod URL Menu Item Crash\r\n\r\nVersion 1.4.1\r\n==========\r\n- Removed Legacy Mod Loading (You MUST BE USING THE LATEST VERSION OF SONIC 3 A.I.R. FROM NOW ON)\r\n- Added a Clickable Error to Most Messages in the Main Window Related to A.I.R.'s Path NOT being set (It will take you to the place in settings where you can change it)\r\n- REMOVED the Language \"NULL\" (from RELEASE Builds; still available in DEBUG)\r\n- Improved Sub-folder Index Persistence when Fully Reloading the Mod Viewer\r\n- Added More Missing Translations\r\n- FIXED: \"I tried modifying the input mappings for player 2 in the mod manager, but the settings didn't stick, not even after clicking Save Input Mappings.\"\r\n- FIXED: \"I can't modify the mapping for Down for player 2, as nothing happens when I click the corresponding button\"\r\n- Major Changes to How Mod Management Works (You can now sort the mods into sub-folders)\r\n- Allowed Zips with Multiple Mods inside of them to be loaded into the Mod Manager instead of only the first one the Manager finds\r\n- Enter Key Toggles Mods On\/Off\r\n- Visual Improvements to the ModViewerItems\r\n- Fixed the Un-Scrollable Mod Information\r\n- Maybe Improved Icon Reloading\r\n- Added an Edit Config Option to the Right Click Context Menu (Opens the mod.json in your specified editor for json files)\r\n\r\n",
+    "DownloadURL": "https://raw.githubusercontent.com/CarJem/GenerationsLib.Updates/master/UpdateFiles/S3_AIR_MM/sonic3air_modmanager_v1.4.2_fix_setup.exe"
   }
 }
