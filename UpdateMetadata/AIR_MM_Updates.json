@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "Version": "19.12.22.0",
-    "Details": "\r\nVersion 19.12.22.0\r\n================\r\n- New Numbering Format for the Versions Going Forward.\r\n- Added Discord Rich Presence Support (Will track your Game time while you play if you use the Mod Manager to Launch the Game)\r\n- Implemented a \"Much-Less-Prone-to-Break\" Settings Writer Internally that will prevent Breaking Normal A.I.R. Preferences\r\n- Added a \"Highly Experiemental, Developer Only\" Recording Viewer\r\n- Added a Mod Collections Feature, which allows you to quickly load saved presets of multiple mods.\r\n- Added a Custom Right Click Context Menu to A.I.R. In-Game\r\n- Added Support for Defining the ROM Path Automatically\r\n- Optimized Version Installation\r\n- Added Program Logging\r\n- Many, Many QOL Bug Fixes Internally",
-    "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/S3_AIR_MM/Update_19.12.22.0.exe"
+    "Version": "19.12.27.0",
+    "Details": "Version 19.12.27.0\r\n================\r\n- Fixed Crashes related to the New Settings Format\r\n- Fixed being Unable to Install the Latest A.I.R. Updates\r\n- Added More Options to the Input Manager\r\n- Several QOL Improvements",
+    "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/S3_AIR_MM/Update_19.12.27.0.exe"
   }
 }
