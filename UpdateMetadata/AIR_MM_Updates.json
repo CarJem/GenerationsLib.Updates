@@ -1,7 +1,7 @@
 {
   "Metadata": {
     "Version": "19.12.27.0",
-    "Details": "Version 19.12.27.0\r\n================\r\n- Fixed Crashes related to the New Settings Format\r\n- Fixed being Unable to Install the Latest A.I.R. Updates\r\n- Added More Options to the Input Manager\r\n- Several QOL Improvements",
+    "Details": "DO NOT INSTALL THIS UPDATE\r\nCONTAINS A ISSUE THAT I AM CURRENTLY LOOKING INTO\r\n\r\nVersion 19.12.27.0\r\n================\r\n- Fixed Crashes related to the New Settings Format\r\n- Fixed being Unable to Install the Latest A.I.R. Updates\r\n- Added More Options to the Input Manager\r\n- Several QOL Improvements",
     "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/S3_AIR_MM/Update_19.12.27.0.exe"
   }
 }
