@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "Version": "Version 19.12.31.0",
+    "Version": "19.12.31.0",
     "Details": "Version 19.12.31.0\n===============\n\n- Fixed HUGE Bugs that caused unexplained crashes (thanks to @SonyBlainesim for helping me find them)\n- Drastically Improved the Situation Behind Logging\n- Add a Show All Feature to the Disabled Mods Viewer",
     "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/S3_AIR_MM/Update_19.12.31.0.exe"
   }
