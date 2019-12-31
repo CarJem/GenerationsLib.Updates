@@ -42,5 +42,8 @@
     <Content Include="UpdateFiles\S3_AIR_MM\Update_19.12.22.0.exe" />
     <Content Include="UpdateFiles\S3_AIR_MM\Update_19.12.27.0.exe" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
