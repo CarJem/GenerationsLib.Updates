@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "Version": "19.12.31.0",
-    "Details": "Version 19.12.31.0\n===============\n\n- Fixed HUGE Bugs that caused unexplained crashes (thanks to @SonyBlainesim for helping me find them)\n- Drastically Improved the Situation Behind Logging\n- Add a Show All Feature to the Disabled Mods Viewer",
-    "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/S3_AIR_MM/Update_19.12.31.0.exe"
+    "Version": "20.1.1.2",
+    "Details": "Version 20.1.1.2\n=============\n\n- Hotfixes for More Unhandled Crashes (this should be the last of the major ones)\n- Fixed Crashes related to the Updater\n- Fixed Forced Auto Boot Mode Not Perserving or Applying Settings Before or After Game Launch\n\nPlease Inform Me if you still have issues with the program so I can figure out what the problem is if it still exists:\n\n- Being Unable to Run this Program without ADMIN Privliages\n- Unexplained Crashes related to Downloading Updates/Mods",
+    "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/S3_AIR_MM/Update_20.1.1.2.exe"
   }
 }
