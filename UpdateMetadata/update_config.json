@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "Version": "19.12.27.0",
-    "Details": "DO NOT INSTALL THIS UPDATE\nCONTAINS A ISSUE THAT I AM CURRENTLY LOOKING INTO\n\nVersion 19.12.27.0\n================\n- Fixed Crashes related to the New Settings Format\n- Fixed being Unable to Install the Latest A.I.R. Updates\n- Added More Options to the Input Manager\n- Several QOL Improvements",
-    "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/S3_AIR_MM/Update_19.12.27.0.exe"
+    "Version": "20.2.?.0",
+    "Details": "Version 20.2.?.0\n=============\n\n- First Updater Build\n",
+    "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/Maniac_Editor/LatestSetup.exe"
   }
 }
