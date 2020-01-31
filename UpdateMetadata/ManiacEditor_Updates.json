@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "Version": "20.0.0.0",
-    "Details": "20.X.X.X Series Builds\n=========================\n\nNightly Build",
+    "Version": "20.1.31.0",
+    "Details": "Version 20.1.31.X Nightly\n=========================\n\n- First Public Automatic Publish Build\n- On Board Updater Implemented for the Automatatic Update System\n\nOptimizations Being Made EVERYWHERE RAPIDLY, please make sure you be EXTREMELY CAUTOUS and MAKE BACKUPS OF EVERYTHING!\n",
     "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/Maniac_Editor/Setup.exe"
   }
 }
