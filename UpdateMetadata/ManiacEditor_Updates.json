@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "Version": "20.2.2.0",
-    "Details": "Version 20.2.2.0 Nightly\n=========================\n\n- The Find and Replace Tool with Now Select the Tiles it Finds (WIP)\n- Logging Implemented (Log Files Generated in \"%AppData%/ManiacEditor/logs/\")\n\n- More Refactoring Accomplished\n- Restructured the entity renders are drawn in such a way, that I will never need to do another restructure on this scale again (hopefully)\n- Merged and separated several classes/methods/structures/etc.\n\nWARNING:\nOptimizations Being Made EVERYWHERE RAPIDLY, please make sure you be EXTREMELY CAUTIOUS and MAKE BACKUPS OF EVERYTHING!\n\n",
+    "Version": "20.2.2.2",
+    "Details": "Version 20.2.2.2 Nightly\n=========================\n\n- Addressed One Situation That Lead to Alot of People Having their Editor's Crash Before they even started!\n\nWARNING:\nOptimizations Being Made EVERYWHERE RAPIDLY, please make sure you be EXTREMELY CAUTIOUS and MAKE BACKUPS OF EVERYTHING!\n\n\n",
     "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/Maniac_Editor/Setup.exe"
   }
 }
