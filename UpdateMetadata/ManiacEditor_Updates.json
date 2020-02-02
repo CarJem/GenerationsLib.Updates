@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "Version": "20.2.1.0",
-    "Details": "Version 20.2.1.0 Nightly\n=========================\n\n- HEAVILY REFACTORED 80% of the Entire Codebase\n- Fixed Some Minor GUI Visual Issues\n- Optimized quite a bit of Code for Clarity while refactoring\n(Many More still to Come!)\n\n\n\n\nOptimizations Being Made EVERYWHERE RAPIDLY, please make sure you be EXTREMELY CAUTOUS and MAKE BACKUPS OF EVERYTHING!\n\n",
+    "Version": "20.2.2.0",
+    "Details": "Version 20.2.2.0 Nightly\n=========================\n\n- The Find and Replace Tool with Now Select the Tiles it Finds (WIP)\n- Logging Implemented (Log Files Generated in \"%AppData%/ManiacEditor/logs/\")\n\n- More Refactoring Accomplished\n- Restructured the entity renders are drawn in such a way, that I will never need to do another restructure on this scale again (hopefully)\n- Merged and separated several classes/methods/structures/etc.\n\nWARNING:\nOptimizations Being Made EVERYWHERE RAPIDLY, please make sure you be EXTREMELY CAUTIOUS and MAKE BACKUPS OF EVERYTHING!\n\n",
     "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/Maniac_Editor/Setup.exe"
   }
 }
