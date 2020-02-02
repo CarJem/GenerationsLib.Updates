@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "Version": "20.2.2.2",
-    "Details": "Version 20.2.2.2 Nightly\n=========================\n\n- Addressed One Situation That Lead to Alot of People Having their Editor's Crash Before they even started!\n\nWARNING:\nOptimizations Being Made EVERYWHERE RAPIDLY, please make sure you be EXTREMELY CAUTIOUS and MAKE BACKUPS OF EVERYTHING!\n\n\n",
+    "Version": "20.2.2.3",
+    "Details": "Version 20.2.2.Jolt Nightly\n=========================\n\n- Small Quick Special Scaling Fix for TheManiaac \n- Will be in the next Nightly\n\n- All Other Changes are in Previous Changelogs\n\nWARNING:\nOptimizations Being Made EVERYWHERE RAPIDLY, please make sure you be EXTREMELY CAUTIOUS and MAKE BACKUPS OF EVERYTHING!\n\n\n\n",
     "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/Maniac_Editor/Setup.exe"
   }
 }
