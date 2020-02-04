@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "Version": "20.2.2.3",
-    "Details": "Version 20.2.2.Jolt Nightly\n=========================\n\n- Small Quick Special Scaling Fix for TheManiaac \n- Will be in the next Nightly\n\n- All Other Changes are in Previous Changelogs\n\nWARNING:\nOptimizations Being Made EVERYWHERE RAPIDLY, please make sure you be EXTREMELY CAUTIOUS and MAKE BACKUPS OF EVERYTHING!\n\n\n\n",
+    "Version": "20.2.3.0",
+    "Details": "Version 20.2.3.0\n=========================\n\n- Finally Finished the Majority of Code Refactoring (still a little bit more to do; but it's mostly done now)\n- Fixed a VERY OLD issue related to Entity textures being squashed before rendering!\n- Several UI Adjustments\n- Several Theming Adjustments\n- Fixed Broken Show Tile ID Mode\n- Fixed Some Broken Default Configuration Logic\n- Happy to be Working on Maniac Editor Again Now\n\nWARNING:\nOptimizations Being Made EVERYWHERE RAPIDLY, please make sure you be EXTREMELY CAUTIOUS and MAKE BACKUPS OF EVERYTHING!\n\n\n\n\n",
     "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/Maniac_Editor/Setup.exe"
   }
 }
