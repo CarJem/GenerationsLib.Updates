@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "Version": "20.2.5.0",
-    "Details": "Version 20.2.3.0\n=========================\n\n- Reimplemented the Debug/Status HUD (WIP) (Toggle with F3)\n- Fixed Crashes related to Undo/Redo or Any Major Action\n- More Code Refactored/Adjusted\n\nWARNING:\nOptimizations Being Made EVERYWHERE RAPIDLY, please make sure you be EXTREMELY CAUTIOUS and MAKE BACKUPS OF EVERYTHING!\n\n\n\n\n\n",
+    "Version": "20.2.7.0",
+    "Details": "Version 20.2.7.0 Nightly\n=========================\n\n- Settings COMPLETELY Reworked Both in the UI and Internally (All users this update will have their settings reset)\n- Fixed Discord RPC being unabled to be Disabled\n- Added Full Experiemental DPI Intergration to the Editor (for those with LARGE Monitors or Screen Sizes)\n- Plenty of QOL Updates Directly Related to the User Interface\n- Adjusted the Placement of Many Tools/View Options into two new Menu Catagories (Layers / Entities)\n- Removed/Disabled a couple of Inactive, Unimplemented, or removed capabilities!\n- Portable Mode is Here to stay After all!\n\nNext Up On My Bucket List of Stuff to do Next: (in no particular order)\n- Overhaul the Find and Replace Tool\n- Overhaul and Optimize the Scene/Level Loading Code (AND FIX ALL OF THE RANDOM ISSUES IN THE PROCESS)\n- Support for Import/Exporting other RSDK Levels (aka StageManiac)\n- Reimplement Parallax Viewer\n- Remove/Adjust how Certain Tools are Handled to reduce Clutter\n- Automatic Downloads for the Auto Updater\n- Fix Sonic Mania Lock On Functionality\n\nWARNING:\nOptimizations Being Made EVERYWHERE RAPIDLY, please make sure you be EXTREMELY CAUTIOUS and MAKE BACKUPS OF EVERYTHING!\n\n\n\n\n\n\n",
     "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/Maniac_Editor/Setup.exe"
   }
 }
