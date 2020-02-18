@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "Version": "20.2.14.0",
-    "Details": "Version 20.2.14.0 Nightly\n=========================\n\n- Installer QOL Updates (More Options upon Installing!)\n- Overhauled the SharpDX Backend Further\n- FINALLY Uncapped the SharpDX Backend (Should allow more than 60FPS)\n- Fixed Some Glaring Oversights that We Ethier Tiny or Prevented the Editor from Starting at All\n- Improvements to Portable Mode\n- Improvements to the Light Theme\n- Testing a New Scene Loading Methodology (Just the Begining)\n- Improvements to Debug Information HUD and Visual Changes\n\n\nWARNING:\nOptimizations Being Made EVERYWHERE RAPIDLY, please make sure you be EXTREMELY CAUTIOUS and MAKE BACKUPS OF EVERYTHING!\n\n\n\n\n\n\n\n",
+    "Version": "20.2.17.0",
+    "Details": "Version 20.2.17.0 Nightly\n=========================\n\n- Further Improvements to the Installer\n- Drastically Improved Scene/Data Directory Loading\n- Scene Files can now be loaded without a Data Directory\n- Splines can Now FINALLY be turned into actual objects in-game\n- QOL Improvements to Many GUI's\n- Fixed Several Random Errors and Crashes\n- Reworked the EditorEntities Class to be Far More Reliable and Less Likely to Cause Duplicate Slot ID Problems!\n- Upgraded the Recent Items from the INI format to the JSON format\n- Removed More Uneeded Code\n\nWARNING:\nOptimizations Being Made EVERYWHERE RAPIDLY, please make sure you be EXTREMELY CAUTIOUS and MAKE BACKUPS OF EVERYTHING!\n",
     "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/Maniac_Editor/Setup.exe"
   }
 }
