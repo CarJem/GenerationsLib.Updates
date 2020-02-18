@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "Version": "20.2.17.0",
-    "Details": "Version 20.2.17.0 Nightly\n=========================\n\n- Further Improvements to the Installer\n- Drastically Improved Scene/Data Directory Loading\n- Scene Files can now be loaded without a Data Directory\n- Splines can Now FINALLY be turned into actual objects in-game\n- QOL Improvements to Many GUI's\n- Fixed Several Random Errors and Crashes\n- Reworked the EditorEntities Class to be Far More Reliable and Less Likely to Cause Duplicate Slot ID Problems!\n- Upgraded the Recent Items from the INI format to the JSON format\n- Removed More Uneeded Code\n\nWARNING:\nOptimizations Being Made EVERYWHERE RAPIDLY, please make sure you be EXTREMELY CAUTIOUS and MAKE BACKUPS OF EVERYTHING!\n",
+    "Version": "20.2.17.7",
+    "Details": "Version 20.2.17.7 Nightly\n=========================\n\nHotfix Changes:\nMAJOR Bug Fix Related to Being Unable to add Data Directories to the Editor!\n(Thanks to Alpha#9703 of Discord for Discovery)\n\nPrevious Changes:\n- Further Improvements to the Installer\n- Drastically Improved Scene/Data Directory Loading\n- Scene Files can now be loaded without a Data Directory\n- Splines can Now FINALLY be turned into actual objects in-game\n- QOL Improvements to Many GUI's\n- Fixed Several Random Errors and Crashes\n- Reworked the EditorEntities Class to be Far More Reliable and Less Likely to Cause Duplicate Slot ID Problems!\n- Upgraded the Recent Items from the INI format to the JSON format\n- Removed More Uneeded Code\n\nWARNING:\nOptimizations Being Made EVERYWHERE RAPIDLY, please make sure you be EXTREMELY CAUTIOUS and MAKE BACKUPS OF EVERYTHING!\n\n",
     "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/Maniac_Editor/Setup.exe"
   }
 }
