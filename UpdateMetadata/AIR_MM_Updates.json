@@ -2,6 +2,6 @@
   "Metadata": {
   "Version": "20.5.21.3",
   "Details": "Version 20.5.21.3\n=============\n\n- ADDED the Ability to Add Multiple Mods at Once\n- ADDED the Ability to Remove Multiple Mods at Once\n- ADDED the Ability to Move Multiple Mods to Other Subfolders at Once\n- FIXED the Mod Conflict Handler crashing the Mod Manager\n- ADDED Spanish/Dutch Language Support\n- OVERHAULLED The Mod Selection Control\n     - ADDED the Ability to Resize/Collapse the Mod Properties Panel\n     - NEW Column View Mode\n- ADDED the Ability to Stack Existing Mod Collections on Top of Current Ones\n- NEW View Modes for the Mod Selection Contro\n- OVERHAULED Several Interfaces\n- SEVERAL NEW Themes\n- TONS of Bug Fixes and Many More Smaller Fixes",
-  "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/S3_AIR_MM/Setup_20.5.21.3.exe"
+  "DownloadURL": "https://github.com/CarJem/GenerationsLib.Updates/raw/master/UpdateFiles/S3_AIR_MM/Setup.exe"
 }
 }
